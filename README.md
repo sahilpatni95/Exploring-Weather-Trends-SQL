@@ -1,4 +1,4 @@
-# Exploring-Weather-Trends
+# Exploring Weather Trends SQL EDA
 This is first project of Data Analyst Nanodegree Program on Udacity
 Exploring Weather Trends - Project Instructions
 Summary
